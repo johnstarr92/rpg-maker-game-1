@@ -20,4 +20,20 @@ This document provides a collection of helpful tutorials for getting started wit
 
 ---
 
+## Character Generator
+
+**Video**: [Character Generator](https://www.youtube.com/watch?v=zgPq5Kqr38E)
+
+**Summary**: This tutorial demonstrates how to use the built-in character generator in RPG Maker MZ. Learn how to create unique characters with custom appearances and export them for use in your game. A must-watch for adding personalized touches to your project.
+
+---
+
+## Character Events and Scripted Behaviors
+
+**Video**: [Character Events and Scripted Behaviors](https://www.youtube.com/watch?v=YdPbmQ9zAXg)
+
+**Summary**: Dive into creating interactive character events and scripted behaviors. This tutorial covers setting up event triggers, adding dialogue, and scripting complex character actions. Ideal for enhancing the interactivity and storytelling in your game.
+
+---
+
 Feel free to explore these tutorials to enhance your RPG Maker MZ skills. More resources will be added as they become available!
