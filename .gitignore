@@ -1,0 +1,45 @@
+# RPG Maker Generic .gitignore
+
+# RPG Maker project files
+*.rpgproject
+*.rmmzproject
+
+# Backup files
+*.bak
+*.tmp
+
+# Logs
+*.log
+
+# System files
+Thumbs.db
+.DS_Store
+
+# Node.js dependencies
+node_modules/
+
+# Compiled files
+*.dll
+*.exe
+*.so
+*.dylib
+
+# RPG Maker generated files
+www/
+output/
+
+# Editor-specific files
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# OS-specific files
+*.swp
+*.lock
+*.pyc
+*.pyo
+*.class
+
+# RPG Maker cache
+cache/
