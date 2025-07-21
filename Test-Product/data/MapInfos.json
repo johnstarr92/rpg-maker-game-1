@@ -1,5 +1,6 @@
 [
 null,
-{"id":1,"expanded":false,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
-{"id":2,"expanded":false,"name":"Tutorial Map number 1","order":2,"parentId":0,"scrollX":685.2,"scrollY":422,"quick":false}
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":411.55555555555554,"scrollY":320.8888888888889},
+{"id":2,"expanded":false,"name":"Tutorial Map number 1","order":2,"parentId":0,"scrollX":595.6363636363636,"scrollY":422.1818181818182,"quick":false},
+{"id":3,"expanded":false,"name":"Local Shopping Street","order":3,"parentId":0,"scrollX":589.8181818181819,"scrollY":332.72727272727275,"quick":false}
 ]
