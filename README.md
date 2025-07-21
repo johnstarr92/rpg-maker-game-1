@@ -150,6 +150,15 @@ GitHub Copilot is an AI-powered code assistant that can help you write code fast
 
 ---
 
+## Additional Resources
+
+Explore more guides and tutorials to enhance your RPG Maker MZ skills:
+
+- [GitHub Development Guide](./guide-readmes/github-guide.md): Learn about GitHub workflows, including pulling changes, creating branches, and opening pull requests.
+- [Starter Tutorials](./guide-readmes/starter-tutorials.md): A collection of helpful tutorials for getting started with RPG Maker MZ.
+
+---
+
 By following these guidelines, you can contribute effectively to the project and collaborate with other developers. Happy coding!
 
 ---
