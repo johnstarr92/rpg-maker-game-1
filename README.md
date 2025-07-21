@@ -105,6 +105,39 @@ Before making changes, create a new branch to keep your work organized and avoid
 
 ---
 
+## Using GitHub CLI (Optional)
+
+The GitHub CLI is a powerful tool for interacting with GitHub directly from your terminal. It can simplify tasks like cloning repositories, creating pull requests, and more.
+
+### Installation
+1. Download and install the GitHub CLI from the [official website](https://cli.github.com/).
+2. Follow the installation instructions for your operating system.
+
+### Setting Up
+1. Authenticate with your GitHub account:
+   ```bash
+   gh auth login
+   ```
+2. Follow the prompts to log in using your GitHub credentials.
+
+### Common Commands
+- Clone a repository:
+  ```bash
+  gh repo clone Lokinious/rpg-maker-game-1
+  ```
+- Create a new branch:
+  ```bash
+  git checkout -b your-branch-name
+  ```
+- Open a pull request:
+  ```bash
+  gh pr create --fill
+  ```
+
+For more information, refer to the [GitHub CLI documentation](https://cli.github.com/manual/).
+
+---
+
 ## Using GitHub Copilot
 
 GitHub Copilot is an AI-powered code assistant that can help you write code faster and with fewer errors.
