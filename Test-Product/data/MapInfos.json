@@ -9,5 +9,6 @@ null,
 {"id":7,"expanded":false,"name":"Indoor Church-cutscene","order":6,"parentId":6,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
 {"id":8,"expanded":true,"name":"Upstairs","order":7,"parentId":6,"scrollX":1027.2,"scrollY":720.6,"quick":false},
 {"id":9,"expanded":true,"name":"Village 1","order":9,"parentId":0,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
-{"id":10,"expanded":false,"name":"Barn - Villiage 1","order":10,"parentId":9,"scrollX":0,"scrollY":0,"quick":false}
+{"id":10,"expanded":false,"name":"Barn - Villiage 1","order":10,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":11,"expanded":false,"name":"Town Home - 1f","order":11,"parentId":9,"scrollX":0,"scrollY":0,"quick":false}
 ]
