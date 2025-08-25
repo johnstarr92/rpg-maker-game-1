@@ -13,5 +13,6 @@ null,
 {"id":11,"expanded":true,"name":"Town Home1 - 1f","order":11,"parentId":9,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
 {"id":12,"expanded":true,"name":"Town Home2 - 1f","order":12,"parentId":9,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
 {"id":13,"expanded":true,"name":"Town Home3 - 1f","order":13,"parentId":9,"scrollX":1017.5999999999999,"scrollY":633,"quick":false},
-{"id":14,"expanded":false,"name":"Port Building","order":14,"parentId":9,"scrollX":0,"scrollY":0,"quick":false}
+{"id":14,"expanded":false,"name":"Port Building","order":14,"parentId":9,"scrollX":0,"scrollY":0,"quick":false},
+{"id":15,"expanded":true,"name":"Village 1 - Snow","order":15,"parentId":9,"scrollX":1017.5999999999999,"scrollY":633,"quick":false}
 ]
